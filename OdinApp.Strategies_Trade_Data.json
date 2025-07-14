@@ -1,0 +1,358 @@
+[{
+  
+  "StrategyID": "ST0012",
+  "Identifier": "IS18089IS18089ST0012NIFTY_ITM2",
+  "Pos": "close",
+  "Symbol": "NIFTY",
+  "Series": "XX",
+  "Option": "CE",
+  "Strike": 25300,
+  "ExpiryDT": "2025-07-10",
+  "ExchangeInstrumentID": 40038,
+  "EnTotalQty": [
+    1
+  ],
+  "EnQty": [
+    1
+  ],
+  "EnPendingQty": [
+    0
+  ],
+  "EnOrderSide": [
+    "BUY"
+  ],
+  "EnOrderId": [
+    "1002"
+  ],
+  "EnStatus": [
+    "EXECUTED"
+  ],
+  "EnDTime": [
+    "2025-07-04 10:38:08"
+  ],
+  "SellPrice": [
+    224.65
+  ],
+  "BuyPrice": [
+    222.3
+  ],
+  "ExTotalQty": [],
+  "ExQty": [
+    1
+  ],
+  "ExPendingQty": [],
+  "ExDTime": [
+    "2025-04-07 11:00:09"
+  ],
+  "ExStatus": [
+    "EXECUTED"
+  ],
+  "ExOrderId": [
+    1002
+  ],
+  "ExOrderSide": [
+    "SELL"
+  ],
+  "RemainingQty": 0,
+  "LotSize": 75,
+  "BasePrice": 226.95,
+  "Itm": 2,
+  "StopLoss": 224.6805
+},
+{
+ 
+  "StrategyID": "ST0001",
+  "Identifier": "IS18089IS18089ST0001NIFTYStraddleSL",
+  "Pos": "close",
+  "Symbol": "NIFTY",
+  "Series": "XX",
+  "Option": "CE",
+  "Strike": 25500,
+  "ExpiryDT": "2025-07-10",
+  "ExchangeInstrumentID": 40049,
+  "EnTotalQty": [
+    1
+  ],
+  "EnQty": [
+    1
+  ],
+  "EnPendingQty": [
+    0
+  ],
+  "EnOrderSide": [
+    "SELL"
+  ],
+  "EnOrderId": [
+    "1002"
+  ],
+  "EnStatus": [
+    "EXECUTED"
+  ],
+  "EnDTime": [
+    "2025-07-04 17:31:17"
+  ],
+  "SellPrice": [
+    126.35
+  ],
+  "BuyPrice": [
+    121.55
+  ],
+  "ExTotalQty": [],
+  "ExQty": [
+    1
+  ],
+  "ExPendingQty": [],
+  "ExDTime": [
+    "2025-04-07 17:32:00"
+  ],
+  "ExStatus": [
+    "EXECUTED"
+  ],
+  "ExOrderId": [
+    1002
+  ],
+  "ExOrderSide": [
+    "BUY"
+  ],
+  "RemainingQty": 0,
+  "LotSize": 75,
+  "StopLoss": 189.52499999999998
+},
+{
+  
+  "StrategyID": "ST0001",
+  "Identifier": "IS18089IS18089ST0001NIFTYStraddleSL",
+  "Pos": "close",
+  "Symbol": "NIFTY",
+  "Series": "XX",
+  "Option": "PE",
+  "Strike": 25500,
+  "ExpiryDT": "2025-07-10",
+  "ExchangeInstrumentID": 40050,
+  "EnTotalQty": [
+    1
+  ],
+  "EnQty": [
+    1
+  ],
+  "EnPendingQty": [
+    0
+  ],
+  "EnOrderSide": [
+    "SELL"
+  ],
+  "EnOrderId": [
+    "1002"
+  ],
+  "EnStatus": [
+    "EXECUTED"
+  ],
+  "EnDTime": [
+    "2025-07-04 17:31:17"
+  ],
+  "SellPrice": [
+    147.15
+  ],
+  "BuyPrice": [
+    150.8
+  ],
+  "ExTotalQty": [],
+  "ExQty": [
+    1
+  ],
+  "ExPendingQty": [],
+  "ExDTime": [
+    "2025-04-07 17:32:00"
+  ],
+  "ExStatus": [
+    "EXECUTED"
+  ],
+  "ExOrderId": [
+    1002
+  ],
+  "ExOrderSide": [
+    "BUY"
+  ],
+  "RemainingQty": 0,
+  "LotSize": 75,
+  "StopLoss": 220.72500000000002
+},
+{
+ 
+  "StrategyID": "ST0001",
+  "Identifier": "IS18089IS18089ST0001NIFTYStraddleSL",
+  "Pos": "close",
+  "Symbol": "NIFTY",
+  "Series": "XX",
+  "Option": "CE",
+  "Strike": 25500,
+  "ExpiryDT": "2025-07-10",
+  "ExchangeInstrumentID": 40049,
+  "EnTotalQty": [
+    1
+  ],
+  "EnQty": [
+    1
+  ],
+  "EnPendingQty": [
+    0
+  ],
+  "EnOrderSide": [
+    "SELL"
+  ],
+  "EnOrderId": [
+    "1002"
+  ],
+  "EnStatus": [
+    "EXECUTED"
+  ],
+  "EnDTime": [
+    "2025-07-07 09:43:48"
+  ],
+  "SellPrice": [
+    126.35
+  ],
+  "BuyPrice": [
+    99.45
+  ],
+  "ExTotalQty": [],
+  "ExQty": [
+    1
+  ],
+  "ExPendingQty": [],
+  "ExDTime": [
+    "2025-07-07 15:10:00"
+  ],
+  "ExStatus": [
+    "EXECUTED"
+  ],
+  "ExOrderId": [
+    1002
+  ],
+  "ExOrderSide": [
+    "BUY"
+  ],
+  "RemainingQty": 0,
+  "LotSize": 75,
+  "StopLoss": 189.52499999999998
+},
+{
+ 
+  "StrategyID": "ST0008",
+  "Identifier": "IS18089IS18089ST0008NIFTYStranglePremium",
+  "Pos": "close",
+  "Symbol": "NIFTY",
+  "Series": "XX",
+  "Option": "PE",
+  "Strike": 25200,
+  "ExpiryDT": "2025-07-10",
+  "ExchangeInstrumentID": 40034,
+  "EnTotalQty": [
+    1
+  ],
+  "EnQty": [
+    1
+  ],
+  "EnPendingQty": [
+    0
+  ],
+  "EnOrderSide": [
+    "SELL"
+  ],
+  "EnOrderId": [
+    "1002"
+  ],
+  "EnStatus": [
+    "EXECUTED"
+  ],
+  "EnDTime": [
+    "2025-07-07 11:23:01"
+  ],
+  "SellPrice": [
+    33.85
+  ],
+  "BuyPrice": [
+    32.05
+  ],
+  "ExTotalQty": [],
+  "ExQty": [
+    1
+  ],
+  "ExPendingQty": [],
+  "ExDTime": [
+    "2025-07-07 15:10:00"
+  ],
+  "ExStatus": [
+    "EXECUTED"
+  ],
+  "ExOrderId": [
+    1002
+  ],
+  "ExOrderSide": [
+    "BUY"
+  ],
+  "RemainingQty": 0,
+  "LotSize": 75,
+  "PremiumFlag": "Second_PE",
+  "StopLoss": 42.3125
+},
+{
+  
+  "StrategyID": "ST0008",
+  "Identifier": "IS18089IS18089ST0008NIFTYStranglePremium",
+  "Pos": "close",
+  "Symbol": "NIFTY",
+  "Series": "XX",
+  "Option": "CE",
+  "Strike": 25750,
+  "ExpiryDT": "2025-07-10",
+  "ExchangeInstrumentID": 40070,
+  "EnTotalQty": [
+    1
+  ],
+  "EnQty": [
+    1
+  ],
+  "EnPendingQty": [
+    0
+  ],
+  "EnOrderSide": [
+    "SELL"
+  ],
+  "EnOrderId": [
+    "1002"
+  ],
+  "EnStatus": [
+    "EXECUTED"
+  ],
+  "EnDTime": [
+    "2025-07-07 11:25:41"
+  ],
+  "SellPrice": [
+    30.15
+  ],
+  "BuyPrice": [
+    27.8
+  ],
+  "ExTotalQty": [],
+  "ExQty": [
+    1
+  ],
+  "ExPendingQty": [],
+  "ExDTime": [
+    "2025-07-07 15:10:00"
+  ],
+  "ExStatus": [
+    "EXECUTED"
+  ],
+  "ExOrderId": [
+    1002
+  ],
+  "ExOrderSide": [
+    "BUY"
+  ],
+  "RemainingQty": 0,
+  "LotSize": 75,
+  "PremiumFlag": "Second_CE",
+  "StopLoss": 37.6875
+}]

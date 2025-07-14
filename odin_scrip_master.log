@@ -1,0 +1,966 @@
+2025-07-02 16:13:48,302 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: name 'aiohttp' is not defined
+2025-07-02 16:13:48,302 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 16:13:48,310 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: name 'aiohttp' is not defined
+2025-07-02 16:13:48,311 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 16:14:13,888 - OdinScripMaster - INFO - Deleted 0 existing documents from NSE_EQ
+2025-07-02 16:14:13,966 - OdinScripMaster - INFO - Inserted 8248 new documents into NSE_EQ
+2025-07-02 16:14:13,989 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: NSE_EQ
+2025-07-02 16:14:23,848 - OdinScripMaster - INFO - Deleted 0 existing documents from NSE_FO
+2025-07-02 16:14:24,413 - OdinScripMaster - INFO - Inserted 74698 new documents into NSE_FO
+2025-07-02 16:14:24,415 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: NSE_FO
+2025-07-02 16:15:12,974 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:15:12,974 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:19:15,190 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:19:15,191 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:27:24,481 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:27:24,482 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:27:24,482 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 16:29:44,690 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:29:44,692 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:29:44,692 - root - INFO - Full execution completed in 0.06 seconds.
+2025-07-02 16:29:54,382 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:29:54,382 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:29:54,383 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 16:29:58,579 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:29:58,580 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:29:58,580 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 16:30:00,288 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:30:00,288 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:30:00,289 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 16:30:01,766 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:30:01,766 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:30:01,767 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 16:30:03,027 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:30:03,027 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:30:03,027 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 16:30:09,647 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 16:30:09,648 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 16:30:09,648 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 17:12:14,340 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 17:12:14,341 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 17:12:14,341 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 17:18:53,468 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 17:18:53,469 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 17:18:53,469 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 17:21:03,579 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-02 17:21:03,658 - OdinScripMaster - INFO - Inserted 8248 new documents into MasterData
+2025-07-02 17:21:03,673 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:21:06,736 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-02 17:21:07,261 - OdinScripMaster - INFO - Inserted 74698 new documents into MasterData
+2025-07-02 17:21:07,263 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:21:07,287 - root - INFO - Full execution completed in 4.34 seconds.
+2025-07-02 17:22:48,385 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 17:22:48,386 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 17:22:48,386 - root - INFO - Full execution completed in 0.02 seconds.
+Deleted 0 existing documents for segment NSE_EQ
+Inserted 8248 new documents into MasterData
+Deleted 0 existing documents for segment NSE_FO
+Inserted 74698 new documents into MasterData
+2025-07-02 17:31:33,093 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 200, message='Attempt to decode JSON with unexpected mimetype: application/octet-stream', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_EQ.json'
+2025-07-02 17:31:33,094 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:31:38,620 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 200, message='Attempt to decode JSON with unexpected mimetype: application/octet-stream', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-02 17:31:38,621 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:31:38,622 - root - INFO - Full execution completed in 6.18 seconds.
+2025-07-02 17:32:37,220 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 200, message='Attempt to decode JSON with unexpected mimetype: application/octet-stream', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_EQ.json'
+2025-07-02 17:32:37,220 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:32:40,039 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 200, message='Attempt to decode JSON with unexpected mimetype: application/octet-stream', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-02 17:32:40,040 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:32:40,041 - root - INFO - Full execution completed in 3.49 seconds.
+2025-07-02 17:34:37,276 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-02 17:34:37,355 - OdinScripMaster - INFO - Inserted 8248 new documents into MasterData
+2025-07-02 17:34:37,371 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:34:40,038 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-02 17:34:40,559 - OdinScripMaster - INFO - Inserted 74698 new documents into MasterData
+2025-07-02 17:34:40,561 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:34:40,584 - root - INFO - Full execution completed in 3.92 seconds.
+2025-07-02 17:38:59,695 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1NSE_FO.json'
+2025-07-02 17:38:59,696 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:38:59,704 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1NSE_EQ.json'
+2025-07-02 17:38:59,704 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:38:59,705 - root - INFO - Full execution completed in 0.26 seconds.
+2025-07-02 17:40:06,271 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1NSE_EQ.json'
+2025-07-02 17:40:06,272 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:40:06,285 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1NSE_FO.json'
+2025-07-02 17:40:06,286 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:40:06,286 - root - INFO - Full execution completed in 0.23 seconds.
+2025-07-02 17:40:30,801 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1/NSE_FO.json'
+2025-07-02 17:40:30,802 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:40:30,819 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1/NSE_EQ.json'
+2025-07-02 17:40:30,820 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:40:30,820 - root - INFO - Full execution completed in 0.23 seconds.
+2025-07-02 17:42:30,564 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-02 17:42:30,641 - OdinScripMaster - INFO - Inserted 8248 new documents into MasterData
+2025-07-02 17:42:30,658 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:42:32,758 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-02 17:42:33,296 - OdinScripMaster - INFO - Inserted 74698 new documents into MasterData
+2025-07-02 17:42:33,298 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:42:33,320 - root - INFO - Full execution completed in 3.42 seconds.
+2025-07-02 17:45:28,274 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1NSE_FO.json'
+2025-07-02 17:45:28,274 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:45:28,278 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1NSE_EQ.json'
+2025-07-02 17:45:28,279 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:45:28,279 - root - INFO - Full execution completed in 0.24 seconds.
+2025-07-02 17:47:10,924 - OdinScripMaster - ERROR - Error fetching data for NSE_FO: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1/NSE_FO.json'
+2025-07-02 17:47:10,925 - OdinScripMaster - WARNING - No data to save for NSE_FO.
+2025-07-02 17:47:10,926 - OdinScripMaster - ERROR - Error fetching data for NSE_EQ: 403, message='Forbidden', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/v1/NSE_EQ.json'
+2025-07-02 17:47:10,927 - OdinScripMaster - WARNING - No data to save for NSE_EQ.
+2025-07-02 17:47:10,927 - root - INFO - Full execution completed in 0.23 seconds.
+2025-07-02 17:55:44,690 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-02 17:55:44,787 - OdinScripMaster - INFO - Inserted 8248 new documents into MasterData
+2025-07-02 17:55:44,803 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:55:46,866 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-02 17:55:47,398 - OdinScripMaster - INFO - Inserted 74698 new documents into MasterData
+2025-07-02 17:55:47,400 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 17:55:47,418 - root - INFO - Full execution completed in 3.37 seconds.
+2025-07-02 18:13:19,578 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 18:13:19,579 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 18:13:19,580 - root - INFO - Full execution completed in 5.36 seconds.
+2025-07-02 18:13:47,062 - root - INFO - Full execution completed in 3.28 seconds.
+2025-07-02 18:14:47,227 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 18:14:47,227 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 18:14:47,229 - root - INFO - Full execution completed in 2.91 seconds.
+2025-07-02 18:15:07,418 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-02 18:15:07,494 - OdinScripMaster - INFO - Inserted 8248 new documents into MasterData
+2025-07-02 18:15:07,510 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 18:15:09,513 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-02 18:15:10,036 - OdinScripMaster - INFO - Inserted 74698 new documents into MasterData
+2025-07-02 18:15:10,037 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 18:15:10,058 - root - INFO - Full execution completed in 3.24 seconds.
+2025-07-02 18:34:02,499 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-02 18:34:02,499 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-02 18:34:02,500 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-02 18:34:53,671 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-02 18:34:53,751 - OdinScripMaster - INFO - Inserted 8248 new documents into MasterData
+2025-07-02 18:34:53,767 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 18:34:55,917 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-02 18:34:56,457 - OdinScripMaster - INFO - Inserted 74698 new documents into MasterData
+2025-07-02 18:34:56,460 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-02 18:34:56,477 - root - INFO - Full execution completed in 3.47 seconds.
+2025-07-03 10:23:44,410 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-03 10:23:44,469 - OdinScripMaster - INFO - Inserted 8254 new documents into MasterData
+2025-07-03 10:23:44,470 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 10:26:21,861 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-03 10:26:25,339 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-03 10:26:25,867 - OdinScripMaster - INFO - Inserted 75262 new documents into MasterData
+2025-07-03 10:26:25,870 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 10:26:25,888 - root - INFO - Full execution completed in 4.05 seconds.
+2025-07-03 10:34:35,755 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-03 10:34:35,756 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-03 10:34:35,756 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-03 10:38:07,991 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-03 10:38:07,991 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-03 10:38:07,991 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-03 10:38:34,931 - OdinScripMaster - INFO - Deleted 0 existing documents from MasterData collection
+2025-07-03 10:38:35,008 - OdinScripMaster - INFO - Inserted 8254 new documents into MasterData
+2025-07-03 10:38:35,028 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for segment NSE_EQ
+2025-07-03 10:38:37,914 - OdinScripMaster - INFO - Deleted 8254 existing documents from MasterData collection
+2025-07-03 10:38:38,440 - OdinScripMaster - INFO - Inserted 75262 new documents into MasterData
+2025-07-03 10:38:38,441 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for segment NSE_FO
+2025-07-03 10:38:38,461 - root - INFO - Full execution completed in 4.31 seconds.
+2025-07-03 10:40:51,402 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_EQ
+2025-07-03 10:40:51,475 - OdinScripMaster - INFO - Inserted 8254 new documents into MasterData
+2025-07-03 10:40:51,491 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 10:40:55,523 - OdinScripMaster - INFO - Deleted 0 existing documents for segment NSE_FO
+2025-07-03 10:40:56,029 - OdinScripMaster - INFO - Inserted 75262 new documents into MasterData
+2025-07-03 10:40:56,031 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 10:40:56,053 - root - INFO - Full execution completed in 5.42 seconds.
+2025-07-03 10:48:14,651 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-03 10:48:14,651 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-03 10:48:14,651 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-03 18:20:33,245 - OdinScripMaster - INFO - Deleted 0 existing documents from MasterData
+2025-07-03 18:20:33,320 - OdinScripMaster - INFO - Inserted 8254 new documents into MasterData
+2025-07-03 18:20:33,337 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 18:20:35,357 - OdinScripMaster - INFO - Deleted 8254 existing documents from MasterData
+2025-07-03 18:20:35,884 - OdinScripMaster - INFO - Inserted 75262 new documents into MasterData
+2025-07-03 18:20:35,886 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 18:20:35,906 - root - INFO - Full execution completed in 3.26 seconds.
+2025-07-03 18:20:54,247 - OdinScripMaster - INFO - Deleted 0 existing documents from MasterData
+2025-07-03 18:20:54,326 - OdinScripMaster - INFO - Inserted 8254 new documents into MasterData
+2025-07-03 18:20:54,342 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 18:20:56,388 - OdinScripMaster - INFO - Deleted 8254 existing documents from MasterData
+2025-07-03 18:20:56,924 - OdinScripMaster - INFO - Inserted 75262 new documents into MasterData
+2025-07-03 18:20:56,926 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 18:20:56,944 - root - INFO - Full execution completed in 3.22 seconds.
+2025-07-03 18:21:42,032 - OdinScripMaster - INFO - Deleted 0 existing documents from MasterData
+2025-07-03 18:21:42,106 - OdinScripMaster - INFO - Inserted 8254 new documents into MasterData
+2025-07-03 18:21:42,121 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 18:21:44,136 - OdinScripMaster - INFO - Deleted 8254 existing documents from MasterData
+2025-07-03 18:21:44,671 - OdinScripMaster - INFO - Inserted 75262 new documents into MasterData
+2025-07-03 18:21:44,673 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData
+2025-07-03 18:21:44,691 - root - INFO - Full execution completed in 3.22 seconds.
+2025-07-03 18:24:51,050 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-03 18:24:51,051 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-03 18:24:51,051 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-03 18:25:13,562 - OdinScripMaster - INFO - Deleted 0 existing documents for NSE_EQ from MasterData
+2025-07-03 18:25:13,639 - OdinScripMaster - INFO - Inserted 8254 new documents for NSE_EQ into MasterData
+2025-07-03 18:25:13,654 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-03 18:25:16,216 - OdinScripMaster - INFO - Inserted 75262 new documents for NSE_FO into MasterData
+2025-07-03 18:25:16,218 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-03 18:25:16,242 - root - INFO - Full execution completed in 3.26 seconds.
+2025-07-04 10:06:11,478 - OdinScripMaster - INFO - Deleted 8254 existing documents for NSE_EQ from MasterData
+2025-07-04 10:06:11,540 - OdinScripMaster - INFO - Inserted 8269 new documents for NSE_EQ into MasterData
+2025-07-04 10:06:11,542 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 10:06:14,858 - OdinScripMaster - INFO - Inserted 75588 new documents for NSE_FO into MasterData
+2025-07-04 10:06:14,860 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 10:06:14,881 - root - INFO - Full execution completed in 4.16 seconds.
+2025-07-04 10:07:00,075 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 10:07:00,075 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 10:07:00,077 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-04 10:09:33,211 - OdinScripMaster - INFO - Deleted 0 existing documents for NSE_EQ from MasterData
+2025-07-04 10:09:33,288 - OdinScripMaster - INFO - Inserted 8269 new documents for NSE_EQ into MasterData
+2025-07-04 10:09:33,304 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 10:09:36,306 - OdinScripMaster - INFO - Inserted 75588 new documents for NSE_FO into MasterData
+2025-07-04 10:09:36,307 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 10:09:36,329 - root - INFO - Full execution completed in 3.85 seconds.
+2025-07-04 11:07:29,856 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 11:07:29,856 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 11:07:29,856 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-04 11:08:09,942 - OdinScripMaster - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 11:08:10,035 - OdinScripMaster - INFO - Inserted 8269 new documents for NSE_EQ into MasterData
+2025-07-04 11:08:10,054 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 11:08:12,624 - OdinScripMaster - INFO - Deleted 8269 existing documents from MasterData
+2025-07-04 11:08:13,162 - OdinScripMaster - INFO - Inserted 75588 new documents for NSE_FO into MasterData
+2025-07-04 11:08:13,164 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 11:08:13,182 - root - INFO - Full execution completed in 4.03 seconds.
+2025-07-04 11:15:44,298 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 11:15:44,300 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 11:15:44,300 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-04 11:16:12,196 - OdinScripMaster - INFO - Deleted 75588 existing documents from MasterData
+2025-07-04 11:16:12,259 - OdinScripMaster - INFO - Inserted 8269 new documents for NSE_EQ into MasterData
+2025-07-04 11:16:12,275 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 11:16:15,402 - OdinScripMaster - INFO - Inserted 75588 new documents for NSE_FO into MasterData
+2025-07-04 11:16:15,405 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 11:16:15,423 - root - INFO - Full execution completed in 4.24 seconds.
+2025-07-04 11:17:04,731 - OdinScripMaster - INFO - Deleted 83857 existing documents from MasterData
+2025-07-04 11:17:04,792 - OdinScripMaster - INFO - Inserted 8269 new documents for NSE_EQ into MasterData
+2025-07-04 11:17:04,808 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 11:17:07,677 - OdinScripMaster - INFO - Inserted 75588 new documents for NSE_FO into MasterData
+2025-07-04 11:17:07,679 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 11:17:07,697 - root - INFO - Full execution completed in 3.81 seconds.
+2025-07-04 11:22:34,300 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 11:22:34,300 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 11:22:34,301 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-04 11:22:37,475 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 11:22:37,476 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 11:22:37,476 - root - INFO - Full execution completed in 0.02 seconds.
+2025-07-04 11:56:13,754 - OdinMasterData - ERROR - Document not found for User ID: IS21052
+2025-07-04 11:56:13,754 - OdinMasterData - ERROR - Error fetching scrip data for NSE_FO: Failed to initialize session due to token fetch failure
+2025-07-04 11:56:13,754 - OdinMasterData - ERROR - Document not found for User ID: IS21052
+2025-07-04 11:56:13,754 - OdinMasterData - ERROR - Error fetching scrip data for NSE_EQ: Failed to initialize session due to token fetch failure
+2025-07-04 11:56:13,755 - OdinMasterData - WARNING - No scrip data to save for NSE_EQ.
+2025-07-04 11:56:13,755 - OdinMasterData - WARNING - No scrip data to save for NSE_FO.
+2025-07-04 11:56:13,756 - OdinMasterData - ERROR - Document not found for User ID: IS21052
+2025-07-04 11:56:13,756 - OdinMasterData - ERROR - Error fetching banned scrips for NSE_FO: Failed to initialize session due to token fetch failure
+2025-07-04 11:56:13,756 - OdinMasterData - WARNING - No banned scrips to save for NSE_FO.
+2025-07-04 11:56:13,757 - OdinMasterData - ERROR - Document not found for User ID: IS21052
+2025-07-04 11:56:13,757 - OdinMasterData - ERROR - Error fetching holiday master for NSE_EQ: Failed to initialize session due to token fetch failure
+2025-07-04 11:56:13,757 - OdinMasterData - ERROR - Document not found for User ID: IS21052
+2025-07-04 11:56:13,757 - OdinMasterData - ERROR - Error fetching holiday master for NSE_FO: Failed to initialize session due to token fetch failure
+2025-07-04 11:56:13,757 - OdinMasterData - WARNING - No holidays to save for NSE_EQ.
+2025-07-04 11:56:13,757 - OdinMasterData - WARNING - No holidays to save for NSE_FO.
+2025-07-04 11:56:13,758 - OdinMasterData - INFO - Full execution completed in 0.04 seconds.
+2025-07-04 12:06:38,136 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:06:38,345 - OdinMasterData - ERROR - Error fetching scrip data for NSE_EQ: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_EQ.json'
+2025-07-04 12:06:38,354 - OdinMasterData - ERROR - Error fetching scrip data for NSE_FO: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:06:38,362 - OdinMasterData - WARNING - No scrip data to save for NSE_EQ.
+2025-07-04 12:06:38,363 - OdinMasterData - WARNING - No scrip data to save for NSE_FO.
+2025-07-04 12:06:38,363 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:06:38,589 - OdinMasterData - INFO - Banned Scrips API call successful for NSE_FO
+2025-07-04 12:06:38,589 - OdinMasterData - WARNING - No banned scrips to save for NSE_FO.
+2025-07-04 12:06:38,589 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:06:38,760 - OdinMasterData - INFO - Holiday Master API call successful for NSE_FO
+2025-07-04 12:06:38,764 - OdinMasterData - ERROR - Error fetching holiday master for NSE_EQ: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:06:38,764 - OdinMasterData - WARNING - No holidays to save for NSE_EQ.
+2025-07-04 12:06:38,782 - OdinMasterData - INFO - Holidays for NSE_FO: matched=0, modified=0
+2025-07-04 12:06:38,782 - OdinMasterData - INFO - Data successfully saved to MongoDB for holiday (NSE_FO)
+2025-07-04 12:06:38,782 - OdinMasterData - INFO - Full execution completed in 0.65 seconds.
+2025-07-04 12:10:15,746 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:10:15,948 - OdinMasterData - ERROR - Error fetching scrip data for NSE_EQ: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_EQ.json'
+2025-07-04 12:10:16,434 - OdinMasterData - ERROR - Error fetching scrip data for NSE_FO: Connector is closed.
+2025-07-04 12:10:16,441 - OdinMasterData - WARNING - No scrip data to save for NSE_EQ.
+2025-07-04 12:10:16,442 - OdinMasterData - WARNING - No scrip data to save for NSE_FO.
+2025-07-04 12:10:16,442 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:10:16,646 - OdinMasterData - INFO - Banned Scrips API call successful for NSE_FO
+2025-07-04 12:10:16,646 - OdinMasterData - INFO - No banned scrips found for NSE_FO
+2025-07-04 12:10:16,647 - OdinMasterData - WARNING - No banned scrips to save for NSE_FO.
+2025-07-04 12:10:16,647 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:10:16,816 - OdinMasterData - INFO - Holiday Master API call successful for NSE_EQ (2025)
+2025-07-04 12:10:16,817 - OdinMasterData - INFO - Fetched holidays for NSE_EQ:
+2025-07-04 12:10:16,817 - OdinMasterData - INFO -  - 2025-01-04
+2025-07-04 12:10:16,817 - OdinMasterData - INFO -  - 2025-01-05
+2025-07-04 12:10:16,817 - OdinMasterData - INFO -  - 2025-01-11
+2025-07-04 12:10:16,818 - OdinMasterData - INFO -  - 2025-01-12
+2025-07-04 12:10:16,818 - OdinMasterData - INFO -  - 2025-01-18
+2025-07-04 12:10:16,818 - OdinMasterData - INFO -  - 2025-01-19
+2025-07-04 12:10:16,819 - OdinMasterData - INFO -  - 2025-01-25
+2025-07-04 12:10:16,819 - OdinMasterData - INFO -  - 2025-01-26
+2025-07-04 12:10:16,819 - OdinMasterData - INFO -  - 2025-02-02
+2025-07-04 12:10:16,819 - OdinMasterData - INFO -  - 2025-02-08
+2025-07-04 12:10:16,820 - OdinMasterData - INFO -  - 2025-02-09
+2025-07-04 12:10:16,820 - OdinMasterData - INFO -  - 2025-02-15
+2025-07-04 12:10:16,820 - OdinMasterData - INFO -  - 2025-02-16
+2025-07-04 12:10:16,820 - OdinMasterData - INFO -  - 2025-02-22
+2025-07-04 12:10:16,821 - OdinMasterData - INFO -  - 2025-02-23
+2025-07-04 12:10:16,821 - OdinMasterData - INFO -  - 2025-02-26
+2025-07-04 12:10:16,821 - OdinMasterData - INFO -  - 2025-03-01
+2025-07-04 12:10:16,821 - OdinMasterData - INFO -  - 2025-03-02
+2025-07-04 12:10:16,821 - OdinMasterData - INFO -  - 2025-03-08
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-09
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-14
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-15
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-16
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-22
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-23
+2025-07-04 12:10:16,822 - OdinMasterData - INFO -  - 2025-03-29
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-03-30
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-03-31
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-04-05
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-04-06
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-04-10
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-04-12
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-04-13
+2025-07-04 12:10:16,823 - OdinMasterData - INFO -  - 2025-04-14
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-04-18
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-04-19
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-04-20
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-04-26
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-04-27
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-05-01
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-05-03
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-05-04
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-05-10
+2025-07-04 12:10:16,824 - OdinMasterData - INFO -  - 2025-05-11
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-05-17
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-05-18
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-05-24
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-05-25
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-05-31
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-06-01
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-06-07
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-06-08
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-06-14
+2025-07-04 12:10:16,825 - OdinMasterData - INFO -  - 2025-06-15
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-06-21
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-06-22
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-06-28
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-06-29
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-07-05
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-07-06
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-07-12
+2025-07-04 12:10:16,826 - OdinMasterData - INFO -  - 2025-07-13
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-07-19
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-07-20
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-07-26
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-07-27
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-08-02
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-08-03
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-08-09
+2025-07-04 12:10:16,827 - OdinMasterData - INFO -  - 2025-08-10
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-15
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-16
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-17
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-23
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-24
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-27
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-30
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-08-31
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-09-06
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-09-07
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-09-13
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-09-14
+2025-07-04 12:10:16,828 - OdinMasterData - INFO -  - 2025-09-20
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-09-21
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-09-27
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-09-28
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-02
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-04
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-05
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-11
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-12
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-18
+2025-07-04 12:10:16,829 - OdinMasterData - INFO -  - 2025-10-19
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-10-22
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-10-25
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-10-26
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-01
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-02
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-05
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-08
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-09
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-15
+2025-07-04 12:10:16,830 - OdinMasterData - INFO -  - 2025-11-16
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-11-22
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-11-23
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-11-29
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-11-30
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-12-06
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-12-07
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-12-13
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-12-14
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-12-20
+2025-07-04 12:10:16,831 - OdinMasterData - INFO -  - 2025-12-21
+2025-07-04 12:10:16,832 - OdinMasterData - INFO -  - 2025-12-25
+2025-07-04 12:10:16,832 - OdinMasterData - INFO -  - 2025-12-27
+2025-07-04 12:10:16,832 - OdinMasterData - INFO -  - 2025-12-28
+2025-07-04 12:10:16,834 - OdinMasterData - ERROR - Error fetching holiday master for NSE_FO: Connector is closed.
+2025-07-04 12:10:16,849 - OdinMasterData - INFO - Holidays for NSE_EQ: matched=0, modified=0
+2025-07-04 12:10:16,849 - OdinMasterData - INFO - Data successfully saved to MongoDB for holiday (NSE_EQ)
+2025-07-04 12:10:16,849 - OdinMasterData - WARNING - No holidays to save for NSE_FO.
+2025-07-04 12:10:16,849 - OdinMasterData - INFO - Full execution completed in 1.10 seconds.
+2025-07-04 12:14:17,902 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:14:18,112 - OdinMasterData - ERROR - Attempt 1/3 failed for NSE_FO: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-04 12:14:18,145 - OdinMasterData - ERROR - Error fetching scrip data for NSE_EQ: Connector is closed.
+2025-07-04 12:14:19,120 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:14:19,293 - OdinMasterData - ERROR - Attempt 2/3 failed for NSE_FO: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-04 12:14:20,295 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:14:20,482 - OdinMasterData - ERROR - Attempt 3/3 failed for NSE_FO: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-04 12:14:20,483 - OdinMasterData - ERROR - Failed to fetch scrip data for NSE_FO after 3 attempts
+2025-07-04 12:14:20,490 - OdinMasterData - WARNING - No scrip data to save for NSE_EQ.
+2025-07-04 12:14:20,490 - OdinMasterData - WARNING - No scrip data to save for NSE_FO.
+2025-07-04 12:14:20,491 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:14:20,664 - OdinMasterData - INFO - Banned Scrips API call successful for NSE_FO
+2025-07-04 12:14:20,664 - OdinMasterData - INFO - No banned scrips found for NSE_FO
+2025-07-04 12:14:20,665 - OdinMasterData - WARNING - No banned scrips to save for NSE_FO.
+2025-07-04 12:14:20,665 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:14:20,820 - OdinMasterData - INFO - Holiday Master API call successful for NSE_FO (2025)
+2025-07-04 12:14:20,820 - OdinMasterData - INFO - Fetched holidays for NSE_FO:
+2025-07-04 12:14:20,820 - OdinMasterData - INFO -  - 2025-01-04
+2025-07-04 12:14:20,820 - OdinMasterData - INFO -  - 2025-01-05
+2025-07-04 12:14:20,820 - OdinMasterData - INFO -  - 2025-01-11
+2025-07-04 12:14:20,820 - OdinMasterData - INFO -  - 2025-01-12
+2025-07-04 12:14:20,821 - OdinMasterData - INFO -  - 2025-01-18
+2025-07-04 12:14:20,821 - OdinMasterData - INFO -  - 2025-01-19
+2025-07-04 12:14:20,821 - OdinMasterData - INFO -  - 2025-01-25
+2025-07-04 12:14:20,821 - OdinMasterData - INFO -  - 2025-01-26
+2025-07-04 12:14:20,822 - OdinMasterData - INFO -  - 2025-02-02
+2025-07-04 12:14:20,822 - OdinMasterData - INFO -  - 2025-02-08
+2025-07-04 12:14:20,822 - OdinMasterData - INFO -  - 2025-02-09
+2025-07-04 12:14:20,822 - OdinMasterData - INFO -  - 2025-02-15
+2025-07-04 12:14:20,822 - OdinMasterData - INFO -  - 2025-02-16
+2025-07-04 12:14:20,822 - OdinMasterData - INFO -  - 2025-02-22
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-02-23
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-02-26
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-01
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-02
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-08
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-09
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-14
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-15
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-16
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-22
+2025-07-04 12:14:20,824 - OdinMasterData - INFO -  - 2025-03-23
+2025-07-04 12:14:20,825 - OdinMasterData - INFO -  - 2025-03-29
+2025-07-04 12:14:20,825 - OdinMasterData - INFO -  - 2025-03-30
+2025-07-04 12:14:20,825 - OdinMasterData - INFO -  - 2025-03-31
+2025-07-04 12:14:20,825 - OdinMasterData - INFO -  - 2025-04-05
+2025-07-04 12:14:20,825 - OdinMasterData - INFO -  - 2025-04-06
+2025-07-04 12:14:20,825 - OdinMasterData - INFO -  - 2025-04-10
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-12
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-13
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-14
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-18
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-19
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-20
+2025-07-04 12:14:20,826 - OdinMasterData - INFO -  - 2025-04-26
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-04-27
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-01
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-03
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-04
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-10
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-11
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-17
+2025-07-04 12:14:20,827 - OdinMasterData - INFO -  - 2025-05-18
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-05-24
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-05-25
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-05-31
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-01
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-07
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-08
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-14
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-15
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-21
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-22
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-28
+2025-07-04 12:14:20,828 - OdinMasterData - INFO -  - 2025-06-29
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-05
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-06
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-12
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-13
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-19
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-20
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-26
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-07-27
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-08-02
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-08-03
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-08-09
+2025-07-04 12:14:20,829 - OdinMasterData - INFO -  - 2025-08-10
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-15
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-16
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-17
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-23
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-24
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-27
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-30
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-08-31
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-09-06
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-09-07
+2025-07-04 12:14:20,830 - OdinMasterData - INFO -  - 2025-09-13
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-09-14
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-09-20
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-09-21
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-09-27
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-09-28
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-10-02
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-10-04
+2025-07-04 12:14:20,831 - OdinMasterData - INFO -  - 2025-10-05
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-11
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-12
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-18
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-19
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-22
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-25
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-10-26
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-11-01
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-11-02
+2025-07-04 12:14:20,832 - OdinMasterData - INFO -  - 2025-11-05
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-08
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-09
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-15
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-16
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-22
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-23
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-29
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-11-30
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-12-06
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-12-07
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-12-13
+2025-07-04 12:14:20,833 - OdinMasterData - INFO -  - 2025-12-14
+2025-07-04 12:14:20,834 - OdinMasterData - INFO -  - 2025-12-20
+2025-07-04 12:14:20,834 - OdinMasterData - INFO -  - 2025-12-21
+2025-07-04 12:14:20,834 - OdinMasterData - INFO -  - 2025-12-25
+2025-07-04 12:14:20,834 - OdinMasterData - INFO -  - 2025-12-27
+2025-07-04 12:14:20,834 - OdinMasterData - INFO -  - 2025-12-28
+2025-07-04 12:14:20,835 - OdinMasterData - ERROR - Error fetching holiday master for NSE_EQ: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:14:20,835 - OdinMasterData - WARNING - No holidays to save for NSE_EQ.
+2025-07-04 12:14:20,850 - OdinMasterData - INFO - Holidays for NSE_FO: matched=0, modified=0
+2025-07-04 12:14:20,851 - OdinMasterData - INFO - Data successfully saved to MongoDB for holiday (NSE_FO)
+2025-07-04 12:14:20,851 - OdinMasterData - INFO - Full execution completed in 2.95 seconds.
+2025-07-04 12:17:32,164 - OdinMasterData - INFO - Access token fetched successfully.
+2025-07-04 12:17:32,351 - OdinMasterData - ERROR - Attempt 1/3 failed for NSE_FO: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-04 12:17:32,358 - OdinMasterData - ERROR - Attempt 1/3 failed for NSE_EQ: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:17:33,523 - OdinMasterData - ERROR - Attempt 2/3 failed for NSE_FO: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-04 12:17:33,530 - OdinMasterData - ERROR - Attempt 2/3 failed for NSE_EQ: Connector is closed.
+2025-07-04 12:17:34,668 - OdinMasterData - ERROR - Attempt 3/3 failed for NSE_FO: 400, message='Bad Request', url='https://odinscripmaster.s3.ap-south-1.amazonaws.com/scripfiles/NSE_FO.json'
+2025-07-04 12:17:34,669 - OdinMasterData - ERROR - Failed to fetch scrip data for NSE_FO after 3 attempts
+2025-07-04 12:17:34,669 - OdinMasterData - ERROR - Attempt 3/3 failed for NSE_EQ: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:17:34,669 - OdinMasterData - ERROR - Failed to fetch scrip data for NSE_EQ after 3 attempts
+2025-07-04 12:17:34,690 - OdinMasterData - WARNING - No scrip data to save for NSE_EQ.
+2025-07-04 12:17:34,692 - OdinMasterData - WARNING - No scrip data to save for NSE_FO.
+2025-07-04 12:17:34,818 - OdinMasterData - ERROR - Attempt 1/3 failed for banned scrips NSE_FO: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/BannedScrips?exchange=NSE_FO'
+2025-07-04 12:17:35,923 - OdinMasterData - ERROR - Attempt 2/3 failed for banned scrips NSE_FO: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/BannedScrips?exchange=NSE_FO'
+2025-07-04 12:17:37,036 - OdinMasterData - ERROR - Attempt 3/3 failed for banned scrips NSE_FO: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/BannedScrips?exchange=NSE_FO'
+2025-07-04 12:17:37,036 - OdinMasterData - ERROR - Failed to fetch banned scrips for NSE_FO after 3 attempts
+2025-07-04 12:17:37,036 - OdinMasterData - WARNING - No banned scrips to save for NSE_FO.
+2025-07-04 12:17:37,121 - OdinMasterData - ERROR - Attempt 1/3 failed for holiday master NSE_EQ: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_EQ&year=2025'
+2025-07-04 12:17:37,128 - OdinMasterData - ERROR - Attempt 1/3 failed for holiday master NSE_FO: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:17:38,242 - OdinMasterData - ERROR - Attempt 2/3 failed for holiday master NSE_EQ: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_EQ&year=2025'
+2025-07-04 12:17:38,245 - OdinMasterData - ERROR - Attempt 2/3 failed for holiday master NSE_FO: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:17:39,351 - OdinMasterData - ERROR - Attempt 3/3 failed for holiday master NSE_FO: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_FO&year=2025'
+2025-07-04 12:17:39,351 - OdinMasterData - ERROR - Failed to fetch holiday master for NSE_FO after 3 attempts
+2025-07-04 12:17:39,357 - OdinMasterData - ERROR - Attempt 3/3 failed for holiday master NSE_EQ: 'NoneType' object has no attribute 'connect'
+2025-07-04 12:17:39,357 - OdinMasterData - ERROR - Failed to fetch holiday master for NSE_EQ after 3 attempts
+2025-07-04 12:17:39,357 - OdinMasterData - WARNING - No holidays to save for NSE_EQ.
+2025-07-04 12:17:39,357 - OdinMasterData - WARNING - No holidays to save for NSE_FO.
+2025-07-04 12:17:39,357 - OdinMasterData - INFO - Full execution completed in 7.19 seconds.
+2025-07-04 12:34:47,609 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 12:34:47,673 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 12:34:47,689 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:34:50,483 - OdinDataIntegrator - INFO - Deleted 8269 existing documents from MasterData
+2025-07-04 12:34:50,994 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 12:34:50,997 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:34:51,153 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:34:51,252 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-04 12:34:51,267 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:34:51,346 - OdinDataIntegrator - INFO - Deleted 1 existing documents from HolidayMaster
+2025-07-04 12:34:51,346 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:37:44,600 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 12:37:44,600 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 12:37:44,600 - root - INFO - Full execution completed in 0.03 seconds.
+2025-07-04 12:38:02,124 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 12:38:02,124 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 12:38:02,124 - root - INFO - Full execution completed in 0.03 seconds.
+2025-07-04 12:38:07,731 - OdinScripMaster - INFO - Data for NSE_FO already updated today.
+2025-07-04 12:38:07,732 - OdinScripMaster - INFO - Data for NSE_EQ already updated today.
+2025-07-04 12:38:07,732 - root - INFO - Full execution completed in 0.03 seconds.
+2025-07-04 12:38:20,848 - OdinScripMaster - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 12:38:20,926 - OdinScripMaster - INFO - Inserted 8269 new documents for NSE_EQ into MasterData
+2025-07-04 12:38:20,942 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:38:24,162 - OdinScripMaster - INFO - Inserted 75588 new documents for NSE_FO into MasterData
+2025-07-04 12:38:24,163 - OdinScripMaster - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:38:24,184 - root - INFO - Full execution completed in 4.03 seconds.
+2025-07-04 12:39:24,342 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 12:39:25,063 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 12:39:25,083 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:39:28,271 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 12:39:28,275 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:39:28,479 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:39:28,854 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-04 12:39:28,870 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:39:29,024 - OdinDataIntegrator - INFO - Deleted 1 existing documents from HolidayMaster
+2025-07-04 12:39:29,025 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:41:20,348 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 12:41:21,075 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 12:41:21,094 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:41:24,513 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 12:41:24,515 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:41:24,535 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 12:41:24,742 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:41:24,743 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 12:41:24,966 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:41:25,132 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:43:30,978 - OdinMasterData - INFO - Deleted 83857 existing documents from MasterData (before segment processing)
+2025-07-04 12:43:30,985 - OdinMasterData - INFO - Data for NSE_EQ already updated today.
+2025-07-04 12:43:30,985 - OdinMasterData - INFO - Data for NSE_FO already updated today.
+2025-07-04 12:43:30,986 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 12:43:31,192 - OdinMasterData - INFO - No banned scrips found.
+2025-07-04 12:43:31,195 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 12:43:31,369 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:43:31,532 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:45:56,939 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 12:45:56,940 - OdinDataIntegrator - INFO - Data for NSE_EQ already updated today.
+2025-07-04 12:45:56,943 - OdinDataIntegrator - INFO - Data for NSE_FO already updated today.
+2025-07-04 12:45:56,945 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 12:45:57,127 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:45:57,143 - OdinDataIntegrator - INFO - Deleted 2 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 12:45:57,232 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:45:57,343 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:46:48,609 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 12:46:49,404 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 12:46:49,423 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:46:52,490 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 12:46:52,492 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:46:52,518 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 12:46:52,618 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:46:52,635 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 12:46:52,741 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:46:52,832 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:47:44,876 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 12:51:40,598 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 12:53:01,427 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 12:53:02,171 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 12:53:02,189 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:53:05,271 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 12:53:05,273 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:53:05,297 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 12:53:05,575 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:53:05,576 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 12:53:05,756 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:53:05,919 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:53:38,360 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 12:53:45,217 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 12:55:49,224 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T12:55:49.224180
+2025-07-04 12:55:49,260 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 12:55:50,317 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 12:55:50,342 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 12:55:55,000 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 12:55:55,004 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 12:55:55,025 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 12:55:55,248 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 12:55:55,248 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 12:55:55,431 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:55:55,619 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 12:55:55,619 - OdinDataIntegrator - INFO - Process ended at: 2025-07-04T12:55:55.619628
+2025-07-04 12:55:55,619 - OdinDataIntegrator - INFO - Total execution time: 6.40 seconds
+2025-07-04 12:56:44,283 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T12:56:44.282700
+2025-07-04 12:56:44,293 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 13:05:07,383 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T13:05:07.383664
+2025-07-04 13:05:07,398 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 13:05:43,595 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T13:05:43.595726
+2025-07-04 13:05:43,610 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 13:05:44,290 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 13:05:44,307 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 13:05:47,481 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 13:05:47,484 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 13:05:47,505 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 13:05:47,679 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 13:05:47,681 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 13:05:47,862 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 13:05:48,017 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 13:05:48,017 - OdinDataIntegrator - INFO - Process ended at: 2025-07-04T13:05:48.017351
+2025-07-04 13:05:48,018 - OdinDataIntegrator - INFO - Total execution time: 4.42 seconds
+2025-07-04 13:06:11,586 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T13:06:11.586349
+2025-07-04 13:06:11,603 - OdinDataIntegrator - INFO - All collections already updated today. Skipping processing.
+2025-07-04 13:06:29,668 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T13:06:29.668567
+2025-07-04 13:06:29,683 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 13:06:30,410 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 13:06:30,428 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 13:06:33,809 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 13:06:33,813 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 13:06:33,845 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 13:06:34,014 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 13:06:34,015 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 13:06:34,117 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 13:06:34,227 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 13:06:34,228 - OdinDataIntegrator - INFO - Process ended at: 2025-07-04T13:06:34.228632
+2025-07-04 13:06:34,228 - OdinDataIntegrator - INFO - Total execution time: 4.56 seconds
+2025-07-04 13:08:05,943 - OdinDataIntegrator - INFO - Process started at: 2025-07-04T13:08:05.943444
+2025-07-04 13:08:05,956 - OdinDataIntegrator - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 13:08:06,610 - OdinDataIntegrator - INFO - Inserted 8269 documents into MasterData
+2025-07-04 13:08:06,627 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 13:08:09,768 - OdinDataIntegrator - INFO - Inserted 75588 documents into MasterData
+2025-07-04 13:08:09,770 - OdinDataIntegrator - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 13:08:09,793 - OdinDataIntegrator - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 13:08:10,017 - OdinDataIntegrator - INFO - No banned scrips found.
+2025-07-04 13:08:10,018 - OdinDataIntegrator - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 13:08:10,201 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 13:08:10,305 - OdinDataIntegrator - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 13:08:10,305 - OdinDataIntegrator - INFO - Process ended at: 2025-07-04T13:08:10.305676
+2025-07-04 13:08:10,305 - OdinDataIntegrator - INFO - Total execution time: 4.36 seconds
+2025-07-04 15:53:24,460 - OdinMasterData - INFO - Process started at: 2025-07-04T15:53:24.460863
+2025-07-04 15:53:24,474 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-04 15:53:30,365 - OdinMasterData - INFO - Process started at: 2025-07-04T15:53:30.365981
+2025-07-04 15:53:30,395 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-04 15:55:47,958 - OdinMasterData - INFO - Process started at: 2025-07-04T15:55:47.958397
+2025-07-04 15:55:48,576 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 15:55:48,652 - OdinMasterData - INFO - Inserted 8269 documents into MasterData
+2025-07-04 15:55:48,671 - OdinMasterData - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 15:55:50,886 - OdinMasterData - INFO - Deleted 8269 existing documents from MasterData
+2025-07-04 15:55:51,421 - OdinMasterData - INFO - Inserted 75588 documents into MasterData
+2025-07-04 15:55:51,424 - OdinMasterData - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 15:55:51,635 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-04 15:55:51,650 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 15:55:51,819 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-04 15:55:51,834 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 15:55:52,001 - OdinMasterData - INFO - Deleted 1 existing documents from HolidayMaster
+2025-07-04 15:55:52,003 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 15:55:52,004 - OdinMasterData - INFO - Process ended at: 2025-07-04T15:55:52.004138
+2025-07-04 15:55:52,004 - OdinMasterData - INFO - Total execution time: 4.05 seconds
+2025-07-04 15:56:55,027 - OdinMasterData - INFO - Process started at: 2025-07-04T15:56:55.027884
+2025-07-04 15:56:55,060 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData (before segment processing)
+2025-07-04 15:56:55,842 - OdinMasterData - INFO - Inserted 8269 documents into MasterData
+2025-07-04 15:56:55,861 - OdinMasterData - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_EQ
+2025-07-04 15:57:00,282 - OdinMasterData - INFO - Inserted 75588 documents into MasterData
+2025-07-04 15:57:00,283 - OdinMasterData - INFO - Data successfully saved to MongoDB collection: MasterData for NSE_FO
+2025-07-04 15:57:00,306 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips (before exchange processing)
+2025-07-04 15:57:00,489 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 15:57:00,491 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster (before exchange processing)
+2025-07-04 15:57:00,941 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 15:57:01,090 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 15:57:01,090 - OdinMasterData - INFO - Process ended at: 2025-07-04T15:57:01.090766
+2025-07-04 15:57:01,090 - OdinMasterData - INFO - Total execution time: 6.06 seconds
+2025-07-04 16:10:00,739 - OdinMasterData - INFO - Process started at: 2025-07-04T16:10:00.739809
+2025-07-04 16:10:00,752 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-04 16:10:15,976 - OdinMasterData - INFO - Process started at: 2025-07-04T16:10:15.976806
+2025-07-04 16:10:20,412 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 16:10:21,031 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 16:10:21,217 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 16:10:21,218 - OdinMasterData - INFO - Deleted 1 existing documents from BannedScrips
+2025-07-04 16:10:21,219 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 16:10:21,386 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 16:10:21,538 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 16:10:21,539 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster
+2025-07-04 16:10:21,540 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 16:10:21,540 - OdinMasterData - INFO - Process ended at: 2025-07-04T16:10:21.540161
+2025-07-04 16:10:21,541 - OdinMasterData - INFO - Total execution time: 5.56 seconds
+2025-07-04 16:12:43,046 - OdinMasterData - INFO - Process started at: 2025-07-04T16:12:43.046098
+2025-07-04 16:12:46,929 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 16:12:47,539 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 16:12:50,759 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 16:12:50,760 - OdinMasterData - INFO - Deleted 1 existing documents from BannedScrips
+2025-07-04 16:12:50,761 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 16:12:51,007 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 16:12:51,167 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 16:12:51,168 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster
+2025-07-04 16:12:51,169 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 16:12:51,170 - OdinMasterData - INFO - Process ended at: 2025-07-04T16:12:51.170005
+2025-07-04 16:12:51,170 - OdinMasterData - INFO - Total execution time: 8.12 seconds
+2025-07-04 16:16:05,072 - OdinMasterData - INFO - Process started at: 2025-07-04T16:16:05.072333
+2025-07-04 16:16:08,248 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 16:16:08,846 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 16:16:09,013 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-04 16:16:09,030 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 16:16:09,339 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-04 16:16:09,355 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 16:16:09,355 - OdinMasterData - INFO - Process ended at: 2025-07-04T16:16:09.355182
+2025-07-04 16:16:09,355 - OdinMasterData - INFO - Total execution time: 4.28 seconds
+2025-07-04 16:16:34,999 - OdinMasterData - INFO - Process started at: 2025-07-04T16:16:34.999070
+2025-07-04 16:16:35,029 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-04 16:59:19,878 - OdinMasterData - INFO - Process started at: 2025-07-04T16:59:19.878916
+2025-07-04 17:00:31,237 - OdinMasterData - INFO - Process started at: 2025-07-04T17:00:31.237004
+2025-07-04 17:18:52,432 - OdinMasterData - INFO - Process started at: 2025-07-04T17:18:52.432790
+2025-07-04 17:18:57,222 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 17:18:57,820 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 17:18:58,019 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 17:18:58,022 - OdinMasterData - INFO - Deleted 1 existing documents from BannedScrips
+2025-07-04 17:18:58,022 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 17:18:58,181 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 17:18:58,259 - OdinMasterData - INFO - Inserted 1 documents into HolidayMaster
+2025-07-04 17:18:58,260 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster
+2025-07-04 17:18:58,262 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 17:18:58,262 - OdinMasterData - INFO - Process ended at: 2025-07-04T17:18:58.262518
+2025-07-04 17:18:58,262 - OdinMasterData - INFO - Total execution time: 5.83 seconds
+2025-07-04 17:21:50,159 - OdinMasterData - INFO - Process started at: 2025-07-04T17:21:50.159451
+2025-07-04 17:21:53,356 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 17:21:53,983 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 17:21:54,150 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-04 17:21:54,167 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 17:21:54,481 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-04 17:21:54,498 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 17:21:54,498 - OdinMasterData - INFO - Process ended at: 2025-07-04T17:21:54.498958
+2025-07-04 17:21:54,498 - OdinMasterData - INFO - Total execution time: 4.34 seconds
+2025-07-04 17:32:44,656 - __main__ - INFO - Login Successful
+2025-07-04 17:32:44,658 - OdinMasterData - INFO - Process started at: 2025-07-04T17:32:44.658357
+2025-07-04 17:32:56,485 - OdinMasterData - INFO - Deleted 82302 existing documents from MasterData
+2025-07-04 17:33:02,220 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 17:33:02,906 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-04 17:33:03,954 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 17:33:07,911 - OdinMasterData - INFO - Deleted 24 existing documents from HolidayMaster
+2025-07-04 17:33:07,951 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 17:33:07,951 - OdinMasterData - INFO - Process ended at: 2025-07-04T17:33:07.951389
+2025-07-04 17:33:07,951 - OdinMasterData - INFO - Total execution time: 23.29 seconds
+2025-07-04 17:35:08,326 - OdinMasterData - INFO - Process started at: 2025-07-04T17:35:08.326873
+2025-07-04 17:35:11,315 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-04 17:35:11,891 - OdinMasterData - INFO - Inserted 83857 documents into MasterData
+2025-07-04 17:35:12,047 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-04 17:35:12,064 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-04 17:35:12,205 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-04 17:35:12,221 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-04 17:35:12,221 - OdinMasterData - INFO - Process ended at: 2025-07-04T17:35:12.221234
+2025-07-04 17:35:12,221 - OdinMasterData - INFO - Total execution time: 3.89 seconds
+2025-07-05 10:45:22,542 - OdinMasterData - INFO - Process started at: 2025-07-05T10:45:22.542340
+2025-07-05 10:45:26,003 - OdinMasterData - INFO - Deleted 83857 existing documents from MasterData
+2025-07-05 10:45:26,594 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-05 10:45:26,761 - OdinMasterData - ERROR - Request error: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/BannedScrips?exchange=NSE_FO'
+2025-07-05 10:45:26,763 - OdinMasterData - INFO - Deleted 1 existing documents from BannedScrips
+2025-07-05 10:45:26,764 - OdinMasterData - WARNING - No data to save for BannedScrips.
+2025-07-05 10:45:26,933 - OdinMasterData - ERROR - Request error for NSE_EQ: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_EQ&year=2025'
+2025-07-05 10:45:27,169 - OdinMasterData - ERROR - Request error for NSE_FO: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_FO&year=2025'
+2025-07-05 10:45:27,171 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster
+2025-07-05 10:45:27,171 - OdinMasterData - WARNING - No data to save for HolidayMaster.
+2025-07-05 10:45:27,171 - OdinMasterData - INFO - Process ended at: 2025-07-05T10:45:27.171510
+2025-07-05 10:45:27,171 - OdinMasterData - INFO - Total execution time: 4.63 seconds
+2025-07-05 10:52:20,825 - OdinMasterData - INFO - Process started at: 2025-07-05T10:52:20.825665
+2025-07-05 10:52:23,833 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-05 10:52:24,433 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-05 10:52:24,660 - OdinMasterData - INFO - No banned scrips found.
+2025-07-05 10:52:24,661 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-05 10:52:24,663 - OdinMasterData - WARNING - No data to save for BannedScrips.
+2025-07-05 10:52:25,047 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-05 10:52:25,064 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-05 10:52:25,064 - OdinMasterData - INFO - Process ended at: 2025-07-05T10:52:25.064736
+2025-07-05 10:52:25,064 - OdinMasterData - INFO - Total execution time: 4.24 seconds
+2025-07-05 14:10:22,552 - OdinMasterData - INFO - Process started at: 2025-07-05T14:10:22.552755
+2025-07-05 14:10:22,582 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-05 14:25:39,622 - OdinMasterData - INFO - Process started at: 2025-07-05T14:25:39.622352
+2025-07-05 14:25:42,604 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-05 14:25:43,212 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-05 14:25:43,372 - OdinMasterData - INFO - No banned scrips found.
+2025-07-05 14:25:43,373 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-05 14:25:43,373 - OdinMasterData - WARNING - No data to save for BannedScrips.
+2025-07-05 14:25:43,663 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-05 14:25:43,680 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-05 14:25:43,680 - OdinMasterData - INFO - Process ended at: 2025-07-05T14:25:43.680291
+2025-07-05 14:25:43,681 - OdinMasterData - INFO - Total execution time: 4.06 seconds
+2025-07-05 14:53:55,005 - OdinMasterData - INFO - Process started at: 2025-07-05T14:53:55.005688
+2025-07-05 14:53:55,034 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-05 14:54:25,843 - OdinMasterData - INFO - Process started at: 2025-07-05T14:54:25.843461
+2025-07-05 14:54:25,874 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-05 14:54:41,116 - OdinMasterData - INFO - Process started at: 2025-07-05T14:54:41.116510
+2025-07-05 14:54:41,155 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-05 14:54:59,477 - OdinMasterData - INFO - Process started at: 2025-07-05T14:54:59.477523
+2025-07-05 14:55:02,476 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-05 14:55:03,100 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-05 14:55:03,200 - OdinMasterData - INFO - No banned scrips found.
+2025-07-05 14:55:03,202 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-05 14:55:03,202 - OdinMasterData - WARNING - No data to save for BannedScrips.
+2025-07-05 14:55:03,347 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-05 14:55:03,363 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-05 14:55:03,364 - OdinMasterData - INFO - Process ended at: 2025-07-05T14:55:03.364575
+2025-07-05 14:55:03,364 - OdinMasterData - INFO - Total execution time: 3.89 seconds
+2025-07-05 16:49:59,170 - OdinMasterData - INFO - Process started at: 2025-07-05T16:49:59.170718
+2025-07-05 16:49:59,202 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-07 10:04:24,442 - OdinMasterData - INFO - Process started at: 2025-07-07T10:04:24.442034
+2025-07-07 10:04:24,456 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-07 10:05:35,289 - OdinMasterData - INFO - Process started at: 2025-07-07T10:05:35.289947
+2025-07-07 10:05:40,615 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-07 10:05:41,219 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-07 10:05:41,576 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-07 10:05:41,594 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-07 10:05:41,981 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-07 10:05:41,998 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-07 10:05:41,998 - OdinMasterData - INFO - Process ended at: 2025-07-07T10:05:41.998142
+2025-07-07 10:05:41,998 - OdinMasterData - INFO - Total execution time: 6.71 seconds
+2025-07-07 10:13:28,359 - OdinMasterData - INFO - Process started at: 2025-07-07T10:13:28.359956
+2025-07-07 10:13:28,404 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-07 10:13:43,917 - OdinMasterData - INFO - Process started at: 2025-07-07T10:13:43.917790
+2025-07-07 10:13:48,418 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-07 10:13:49,019 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-07 10:13:49,211 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-07 10:13:49,227 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-07 10:13:49,716 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-07 10:13:49,733 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-07 10:13:49,733 - OdinMasterData - INFO - Process ended at: 2025-07-07T10:13:49.733689
+2025-07-07 10:13:49,733 - OdinMasterData - INFO - Total execution time: 5.82 seconds
+2025-07-07 10:16:33,575 - OdinMasterData - INFO - Process started at: 2025-07-07T10:16:33.575263
+2025-07-07 10:16:37,125 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-07 10:16:37,729 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-07 10:16:37,927 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-07 10:16:37,941 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-07 10:16:38,302 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-07 10:16:38,317 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-07 10:16:38,317 - OdinMasterData - INFO - Process ended at: 2025-07-07T10:16:38.317286
+2025-07-07 10:16:38,318 - OdinMasterData - INFO - Total execution time: 4.74 seconds
+2025-07-07 10:22:20,233 - OdinMasterData - INFO - Process started at: 2025-07-07T10:22:20.233455
+2025-07-07 10:22:20,246 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-07 10:23:48,645 - OdinMasterData - INFO - Process started at: 2025-07-07T10:23:48.645142
+2025-07-07 10:23:53,102 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-07 10:23:53,778 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-07 10:23:53,951 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-07 10:23:53,968 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-07 10:23:54,184 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-07 10:23:54,200 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-07 10:23:54,201 - OdinMasterData - INFO - Process ended at: 2025-07-07T10:23:54.201907
+2025-07-07 10:23:54,201 - OdinMasterData - INFO - Total execution time: 5.56 seconds
+2025-07-07 10:53:04,285 - OdinMasterData - INFO - Process started at: 2025-07-07T10:53:04.285284
+2025-07-07 10:53:08,046 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-07 10:53:08,645 - OdinMasterData - INFO - Inserted 84412 documents into MasterData
+2025-07-07 10:53:08,646 - OdinMasterData - INFO - API call with params: {'exchange': 'NSE_FO'}
+2025-07-07 10:53:08,839 - OdinMasterData - INFO - Raw API response: {'status': 'success', 'code': 's-101', 'message': 'Banned scrip(s) fetched successfully', 'data': [{'exchange': 'NSE_FO', 'token': None, 'symbol': 'RBLBANK'}]}
+2025-07-07 10:53:08,840 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-07 10:53:08,855 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-07 10:53:09,077 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-07 10:53:09,094 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-07 10:53:09,094 - OdinMasterData - INFO - Process ended at: 2025-07-07T10:53:09.094776
+2025-07-07 10:53:09,094 - OdinMasterData - INFO - Total execution time: 4.81 seconds
+2025-07-09 11:00:31,445 - OdinMasterData - INFO - Process started at: 2025-07-09T11:00:31.445062
+2025-07-09 11:00:37,984 - OdinMasterData - INFO - Deleted 84412 existing documents from MasterData
+2025-07-09 11:00:38,582 - OdinMasterData - INFO - Inserted 84914 documents into MasterData
+2025-07-09 11:00:38,963 - OdinMasterData - ERROR - Request error: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/BannedScrips?exchange=NSE_FO'
+2025-07-09 11:00:38,966 - OdinMasterData - INFO - Deleted 1 existing documents from BannedScrips
+2025-07-09 11:00:38,966 - OdinMasterData - WARNING - No data to save for BannedScrips.
+2025-07-09 11:00:39,177 - OdinMasterData - ERROR - Request error for NSE_EQ: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_EQ&year=2025'
+2025-07-09 11:00:39,358 - OdinMasterData - ERROR - Request error for NSE_FO: 404, message='Not Found', url='https://jri4df7kaa.execute-api.ap-south-1.amazonaws.com/prod/interactive/nontransactional/385/v1/holidaymaster?exchange=NSE_FO&year=2025'
+2025-07-09 11:00:39,359 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster
+2025-07-09 11:00:39,360 - OdinMasterData - WARNING - No data to save for HolidayMaster.
+2025-07-09 11:00:39,361 - OdinMasterData - INFO - Process ended at: 2025-07-09T11:00:39.361147
+2025-07-09 11:00:39,361 - OdinMasterData - INFO - Total execution time: 7.92 seconds
+2025-07-09 11:01:39,225 - OdinMasterData - INFO - Process started at: 2025-07-09T11:01:39.224769
+2025-07-09 11:01:39,256 - OdinMasterData - INFO - All collections already updated today. Skipping processing.
+2025-07-09 11:02:10,848 - OdinMasterData - INFO - Process started at: 2025-07-09T11:02:10.848590
+2025-07-09 11:02:15,012 - OdinMasterData - INFO - Deleted 0 existing documents from MasterData
+2025-07-09 11:02:15,613 - OdinMasterData - INFO - Inserted 84914 documents into MasterData
+2025-07-09 11:02:16,062 - OdinMasterData - INFO - Deleted 0 existing documents from BannedScrips
+2025-07-09 11:02:16,077 - OdinMasterData - INFO - Inserted 1 documents into BannedScrips
+2025-07-09 11:02:16,582 - OdinMasterData - INFO - Deleted 0 existing documents from HolidayMaster
+2025-07-09 11:02:16,597 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-09 11:02:16,598 - OdinMasterData - INFO - Process ended at: 2025-07-09T11:02:16.598261
+2025-07-09 11:02:16,598 - OdinMasterData - INFO - Total execution time: 5.75 seconds
+2025-07-10 10:18:42,340 - OdinMasterData - INFO - Process started at: 2025-07-10T10:18:42.340604
+2025-07-10 10:18:46,625 - OdinMasterData - INFO - Deleted 84914 existing documents from MasterData
+2025-07-10 10:18:47,237 - OdinMasterData - INFO - Inserted 85251 documents into MasterData
+2025-07-10 10:18:47,529 - OdinMasterData - INFO - Deleted 1 existing documents from BannedScrips
+2025-07-10 10:18:47,530 - OdinMasterData - INFO - Inserted 2 documents into BannedScrips
+2025-07-10 10:18:48,053 - OdinMasterData - INFO - Deleted 2 existing documents from HolidayMaster
+2025-07-10 10:18:48,055 - OdinMasterData - INFO - Inserted 2 documents into HolidayMaster
+2025-07-10 10:18:48,055 - OdinMasterData - INFO - Process ended at: 2025-07-10T10:18:48.055717
+2025-07-10 10:18:48,055 - OdinMasterData - INFO - Total execution time: 5.72 seconds
